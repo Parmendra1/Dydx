@@ -1,7 +1,7 @@
 pragma solidity 0.8.0;
 pragma experimental ABIEncoderV2;
 
-import { Account } from "./Account.sol";
+import { Account } from "github.com/Parmendra1/Dydx/blob/main/Account.sol";
 
 
 /**
